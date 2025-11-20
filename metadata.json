@@ -1,0 +1,5 @@
+{
+  "name": "NeonMines",
+  "description": "A futuristic, high-stakes Minesweeper clone with probability analysis, power-ups, and a neon aesthetic.",
+  "requestFramePermissions": []
+}
